@@ -8,3 +8,6 @@ import (
 func Paok() {
   fmt.Printf("PAOK!!!")
   }
+func PaokOle() {
+  fmt.Printf("Ole Ole Ole!!")
+  }
